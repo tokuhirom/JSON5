@@ -1,0 +1,4 @@
+name = "JSON5"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
